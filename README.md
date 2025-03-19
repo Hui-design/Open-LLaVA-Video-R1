@@ -22,8 +22,8 @@ The experiment settting is the same as Qwen-based [Video-R1](https://github.com/
 
 ### Set up
 ```
-git clone https://github.com/Hui-design/LLaVA-Video-R1.git
-cd LLaVA-Video-R1
+git clone https://github.com/Hui-design/Open-LLaVA-Video-R1.git
+cd Open-LLaVA-Video-R1
 ```
 Our environment is basically the same as [Open-r1-video](https://github.com/Wang-Xiaodong1899/Open-R1-Video) and [r1-video](https://github.com/tulerfeng/Video-R1). If you have already installed them, you can directly use the previous environment. If you haven't installed them yet, you can try the following commands.
 ```
