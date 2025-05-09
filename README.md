@@ -61,7 +61,16 @@ Evaluation on video counting task
 python llava_video_inference.py
 ```
 
-
+## Citiation
+```
+@misc{Tang2025LlavaVideoR1,
+  author       = {Canhui Tang},
+  title        = {Open LLaVA-Video-R1},
+  howpublished = {\url{https://github.com/Hui-design/Open-LLaVA-Video-R1}},
+  note         = {Accessed: 2025-03-18},
+  year         = {2025}
+}
+```
 
 ## Acknowledgements
 
